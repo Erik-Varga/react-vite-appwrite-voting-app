@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgba(0, 0, 0, 0.9); */
+}
+
+.App {
+    /* text-align: center; */
+    color: black;
+    height: 100vh;
+    /* padding: 5px; */
+    /* margin: 40px auto; */
+}
+
